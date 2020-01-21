@@ -45,7 +45,7 @@ slideholder3.addEventListener("click", function () {
     slideholder3.style.backgroundImage = "url(img/mond" + getMouth() + ".jpg";
 });
 
-// mond //
+// Functie mond //
 
 function getMouth() {
     if(teller >= mondplaatjes.length){
